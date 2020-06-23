@@ -2,7 +2,7 @@ FluidS
 ===============
 
 [![license](https://img.shields.io/github/license/george-chou/FluidS.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
-[![AppVeyor](https://img.shields.io/appveyor/ci/george-chou/FluidS.svg)](https://ci.appveyor.com/project/george-chou/FluidS)
+[![AppVeyor](https://img.shields.io/appveyor/ci/george-chou/FluidS.svg?logo=appveyor)](https://ci.appveyor.com/project/george-chou/FluidS)
 [![Github All Releases](https://img.shields.io/github/downloads/george-chou/FluidS/total.svg)](https://github.com/george-chou/FluidS/releases)
 [![GitHub release](https://img.shields.io/github/release/george-chou/FluidS.svg)](https://github.com/george-chou/FluidS/releases/latest)
 
