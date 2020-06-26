@@ -12,7 +12,7 @@ Its core algorithm of the simulation process refers to Robert Bridson's <i>Fluid
 
 ## Download ##
 
-Download available at <https://github.com/george-chou/FluidS/releases>.
+Download available at <https://github.com/george-chou/FluidS/releases>;
 
 # Build #
 
@@ -54,8 +54,8 @@ $(QTDIR)\lib\qtmain.lib;$(QTDIR)\lib\Qt5Widgets.lib;$(QTDIR)\plugins\platforms\q
 
 ![GPL-v3](https://www.gnu.org/graphics/gplv3-127x51.png)
 
-[Flat icon set](https://www.easyicon.net/550601-Fluid_icon.html) from [easyicon](https://www.easyicon.net/).
+[Flat icon set](https://www.easyicon.net/550601-Fluid_icon.html) from [easyicon](https://www.easyicon.net/);
 
 All source codes are licensed under [GPL-3.0](https://opensource.org/licenses/GPL-3.0).
 
-If you want to make any modification on these source codes while keeping new laws unprotected by GPL-3.0, please contact me for a sublicense instead.
+If you want to make any modification on these source codes while keeping new codes unprotected by GPL-3.0, please contact me for a sublicense instead.
