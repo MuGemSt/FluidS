@@ -160,8 +160,8 @@ void SmokeSimulation::retranslateUi(QWidget *SmokeSimulationClass)
          << QApplication::translate("SmokeSimulationClass", "Green", 0)
 		 << QApplication::translate("SmokeSimulationClass", "Blue", 0)
 		 << QApplication::translate("SmokeSimulationClass", "Yellow", 0)
-         << QApplication::translate("SmokeSimulationClass", "Purple", 0)
-		 << QApplication::translate("SmokeSimulationClass", "Skyblue", 0)
+         << QApplication::translate("SmokeSimulationClass", "Pink", 0)
+		 << QApplication::translate("SmokeSimulationClass", "Cyan", 0)
         );
         comboBox_DenColor->clear();
 		comboBox_VelColor->setCurrentIndex(1);
@@ -171,8 +171,8 @@ void SmokeSimulation::retranslateUi(QWidget *SmokeSimulationClass)
          << QApplication::translate("SmokeSimulationClass", "Green", 0)
 		 << QApplication::translate("SmokeSimulationClass", "Blue", 0)
 		 << QApplication::translate("SmokeSimulationClass", "Yellow", 0)
-         << QApplication::translate("SmokeSimulationClass", "Purple", 0)
-		 << QApplication::translate("SmokeSimulationClass", "Skyblue", 0)
+         << QApplication::translate("SmokeSimulationClass", "Pink", 0)
+		 << QApplication::translate("SmokeSimulationClass", "Cyan", 0)
         );
         label_Den->setText(QApplication::translate("SmokeSimulationClass", "Density:", 0));
         label_Vel->setText(QApplication::translate("SmokeSimulationClass", "Velocity:", 0));

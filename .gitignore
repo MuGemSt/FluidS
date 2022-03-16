@@ -1,4 +1,3 @@
-.vscode/c_cpp_properties.json
 SmokeSimulation.opensdf
 SmokeSimulation.sdf
 SmokeSimulation.v12.suo
@@ -110,3 +109,4 @@ SmokeSimulation/Debug/imageformats/qwebpd.dll
 SmokeSimulation/Debug/platforms/qwindowsd.dll
 SmokeSimulation/SmokeSimulation.vcxproj
 SmokeSimulation/SmokeSimulation.vcxproj.user
+SmokeSimulation/release/SmokeSimulation.tlog/unsuccessfulbuild

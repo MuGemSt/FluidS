@@ -295,12 +295,12 @@ void GLWidget::resolution(bool id)
 
 void GLWidget::changeVisc(int id)
 {
-	visc = id * 0.001;
+	visc = id * 0.0005;
 	emit setVisc(id);
 }
 
 void GLWidget::changeDiff(int id)
 {
-	diff = id * 0.001;
+	diff = id * 0.0005;
 	emit setDiff(id);
 }

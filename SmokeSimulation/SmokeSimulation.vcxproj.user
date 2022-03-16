@@ -7,5 +7,6 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <QTDIR>D:\Qt\Qt5.4.2\5.4\msvc2013_static</QTDIR>
     <LocalDebuggerEnvironment>PATH=$(QTDIR)\bin%3bD:\Qt\Qt5.4.2\5.4\msvc2013_opengl\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(PATH)</LocalDebuggerEnvironment>
+    <LocalDebuggerDebuggerType>GPUOnly</LocalDebuggerDebuggerType>
   </PropertyGroup>
 </Project>
