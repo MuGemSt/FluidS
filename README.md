@@ -8,7 +8,7 @@
 
 Its core algorithm of the simulation process refers to Robert Bridson's <i>Fluid Simulation for Computer Graphics</i>. It uses the numerical solution of Navier-Stokes equations to predict the density and velocity distribution of particles in each frame displayed in the OpenGL widget of Qt. There are two resolution options for users: 64 × 64 and 128 × 128. Users can also change display mode between density and velocity in 7 colors.
 
-<img width="415" src="https://george-chou.github.io/covers/FluidS/fsd.PNG"/><img width="415" src="https://george-chou.github.io/covers/FluidS/fsv.PNG"/>
+<img width="415" src="https://george-chou-github-io.vercel.app/covers/FluidS/fsd.PNG"/><img width="415" src="https://george-chou-github-io.vercel.app/covers/FluidS/fsv.PNG"/>
 
 ## Download ##
 
