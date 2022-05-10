@@ -1,3 +1,13 @@
+#ifdef QT_DEBUG
+#pragma comment(lib, "qtmaind.lib")
+#pragma comment(lib, "Qt5Cored.lib")
+#pragma comment(lib, "Qt5Guid.lib")
+#pragma comment(lib, "Qt5OpenGLd.lib")
+#pragma comment(lib, "opengl32.lib")
+#pragma comment(lib, "glu32.lib")
+#pragma comment(lib, "Qt5Widgetsd.lib")
+#endif
+
 #define IX(i,j) ((i)+(N+2)*(j))
 #define SWAP(x0,x) {float * tmp=x0;x0=x;x=tmp;}
 #define FOR_EACH_CELL for ( i=1 ; i<=N ; i++ ) { for ( j=1 ; j<=N ; j++ ) {
@@ -29,7 +39,6 @@ static int omx, omy, mx, my;
 #define GLWIDGET_H
 
 #include<QMouseEvent>
-
 #include <QtWidgets/QOpenGLWidget>
 
 class QVector3D;
