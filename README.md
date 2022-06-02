@@ -71,7 +71,7 @@ git clone https://github.com/george-chou/FluidS.git
 
 ![GPL-v3](https://www.gnu.org/graphics/gplv3-127x51.png)
 
-Flat icon set from [easyicon](https://www.easyicon.cc/)
+[Flat icon set](./SmokeSimulation/Resources/Fluid_48px.ico) from [easyicon](https://www.easyicon.cc/)
 
 All source codes are licensed under [GPL-3.0](https://opensource.org/licenses/GPL-3.0)
 
