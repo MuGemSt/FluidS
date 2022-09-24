@@ -7,9 +7,9 @@
 
 其仿真过程的核心算法参考了 Robert Bridson 的 <i>Fluid Simulation for Computer Graphics</i>。它使用 Navier-Stokes 方程的数值解来预测 Qt 的 OpenGL 小部件中显示的每一帧中粒子的密度和速度分布。有两种分辨率可供用户选择：64 × 64 和 128 × 128。用户还可以在 7 种颜色的密度和速度之间切换显示模式。
 
-| <img src="https://george-chou-github-io.vercel.app/covers/FluidS/fsd.PNG"/> | <img src="https://george-chou-github-io.vercel.app/covers/FluidS/fsv.PNG"/> |
-| :-------------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
-|                                   密度场                                    |                                   速度场                                    |
+| <img src="https://picrepo.netlify.app/FluidS/fsd.PNG"/> | <img src="https://picrepo.netlify.app/FluidS/fsv.PNG"/> |
+| :-----------------------------------------------------: | :-----------------------------------------------------: |
+|                         密度场                          |                         速度场                          |
 
 ## 代码下载
 ```
