@@ -9,7 +9,7 @@ Its core algorithm of the simulation process refers to Robert Bridson's <i>Fluid
 
 | <img src="https://picrepo.netlify.app/FluidS/fsd.PNG"/> | <img src="https://picrepo.netlify.app/FluidS/fsv.PNG"/> |
 | :-----------------------------------------------------: | :-----------------------------------------------------: |
-|                      Density field                      |                     Velocity field                      |
+|                    **Density field**                    |                   **Velocity field**                    |
 
 ## Code download
 ```
