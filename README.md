@@ -22,10 +22,10 @@ git clone https://github.com/george-chou/FluidS.git
 | Requirements                    | Links                                                                                                                                    | Extraction code  |
 | :------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------- | :--------------: |
 | Qt 5.7 dynamic      compiler    | [qt-opensource-windows-x86-msvc2015-5.7.1](https://download.qt.io/new_archive/qt/5.7/5.7.1/qt-opensource-windows-x86-msvc2015-5.7.1.exe) |   Direct link    |
-| Compiled Qt 5.7 static compiler | [qt5-x86-static-release](https://www.123pan.com/s/qeQDVv-gcFJH)                                                                          |      `iUgO`      |
-| Visual Studio 2015              | [Microsoft Visual Studio 2015](https://www.123pan.com/s/qeQDVv-wcFJH)                                                                    |      `0pwH`      |
+| Compiled Qt 5.7 static compiler | [qt5-x86-static-release](https://pan.baidu.com/s/1hhDt9MIG0PfcXXFaZrHyRw?pwd=iUgO)                                                       |      `iUgO`      |
+| Visual Studio 2015              | [Microsoft Visual Studio 2015](https://pan.baidu.com/s/15CQKY6LhU_xATe8Ra9r4jw?pwd=0pwH)                                                 |      `0pwH`      |
 | Qt VS AddIn                     | [qt-vsaddin-msvc2015-2.4.3.vsix](https://download.qt.io/archive/vsaddin/2.4.3/qt-vsaddin-msvc2015-2.4.3.vsix)                            |   Direct link    |
-| MinGW                           | [mingw-w64-install.exe](https://www.123pan.com/s/qeQDVv-3ZFJH)                                                                           |      `BWll`      |
+| MinGW                           | [mingw-w64-install.exe](https://pan.baidu.com/s/1d0tPdiGStfAoYIk4FAfiig?pwd=BWll)                                                        |      `BWll`      |
 | Visual Studio Code              | <https://code.visualstudio.com/Download>                                                                                                 | Official website |
 
 ### Installation order
