@@ -22,10 +22,10 @@ git clone https://github.com/george-chou/FluidS.git
 | Requirements                    | Links                                                                                                                                    |
 | :------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------- |
 | Qt 5.7 dynamic      compiler    | [qt-opensource-windows-x86-msvc2015-5.7.1](https://download.qt.io/new_archive/qt/5.7/5.7.1/qt-opensource-windows-x86-msvc2015-5.7.1.exe) |
-| Compiled Qt 5.7 static compiler | [qt5-x86-static-release](https://pan.baidu.com/s/1hhDt9MIG0PfcXXFaZrHyRw?pwd=iUgO)                                                       |
-| Visual Studio 2015              | [Microsoft Visual Studio 2015](https://pan.baidu.com/s/15CQKY6LhU_xATe8Ra9r4jw?pwd=0pwH)                                                 |
+| Compiled Qt 5.7 static compiler | [qt5-x86-static-release](https://www.123pan.com/s/Hl2SVv-fWWRh)                                                                          |
+| Visual Studio 2015              | [Microsoft Visual Studio 2015](https://www.123pan.com/s/Hl2SVv-xWWRh)                                                                    |
 | Qt VS AddIn                     | [qt-vsaddin-msvc2015-2.4.3.vsix](https://download.qt.io/archive/vsaddin/2.4.3/qt-vsaddin-msvc2015-2.4.3.vsix)                            |
-| MinGW                           | [mingw-w64-install.exe](https://pan.baidu.com/s/1d0tPdiGStfAoYIk4FAfiig?pwd=BWll)                                                        |
+| MinGW                           | [mingw-w64-install.exe](https://www.123pan.com/s/Hl2SVv-pWWRh)                                                                           |
 | Visual Studio Code              | <https://code.visualstudio.com/Download>                                                                                                 |
 
 ### Installation order
