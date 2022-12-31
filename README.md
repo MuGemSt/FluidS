@@ -16,8 +16,8 @@ Its core algorithm of the simulation process refers to Robert Bridson's <i>Fluid
 git clone https://github.com/george-chou/FluidS.git
 ```
 
-## Environment installation, configuration and code debugging, release
-Please refer to the following [blog post](https://www.cnblogs.com/georgechou/p/17017063.html) for this section.
+## Environment installation, configuration & code debugging, release
+Please refer to this [blog post](https://www.cnblogs.com/georgechou/p/17017063.html) for this section.
 
 ## License
 

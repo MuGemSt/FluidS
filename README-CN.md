@@ -17,7 +17,7 @@ git clone https://github.com/george-chou/FluidS.git
 ```
 
 ## 环境安装配置及代码调试发布
-此部分内容请统一参考如下[博文](https://www.cnblogs.com/georgechou/p/17017055.html)
+此部分内容请统一参考此[博文](https://www.cnblogs.com/georgechou/p/17017055.html)
 
 
 ## 许可证
