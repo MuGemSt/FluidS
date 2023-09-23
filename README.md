@@ -17,7 +17,7 @@ git clone https://github.com/george-chou/FluidS.git
 ```
 
 ## Environment installation, configuration & code debugging, release
-Please refer to this [blog post](https://www.cnblogs.com/georgechou/p/17017063.html) for this section.
+Please refer to this [blog post](https://www.cnblogs.com/MuGeminorum/p/17017063.html) for this section.
 
 ## License
 
