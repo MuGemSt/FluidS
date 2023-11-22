@@ -4,6 +4,7 @@
 [![AppVeyor](https://img.shields.io/appveyor/ci/MuGeminorum/FluidS.svg?logo=appveyor)](https://ci.appveyor.com/project/MuGeminorum/FluidS)
 [![Github All Releases](https://img.shields.io/github/downloads/MuGeminorum/FluidS/total.svg)](https://github.com/MuGeminorum/FluidS/releases)
 [![GitHub release](https://img.shields.io/github/release/MuGeminorum/FluidS.svg)](https://github.com/MuGeminorum/FluidS/releases/latest)
+[![](https://img.shields.io/badge/bilibili-BV1LM4y1Q7K1-fc8bab.svg)](https://www.bilibili.com/video/BV1LM4y1Q7K1)
 
 Its core algorithm of the simulation process refers to Robert Bridson's <i>Fluid Simulation for Computer Graphics</i>. It uses the numerical solution of Navier-Stokes equations to predict the density and velocity distribution of particles in each frame displayed in the OpenGL widget of Qt. There are two resolution options for users: 64 × 64 and 128 × 128. Users can also change display mode between density and velocity in 7 colors.
 
