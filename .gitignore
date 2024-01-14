@@ -115,3 +115,4 @@ Debug/*
 Release/*
 SmokeSimulation/Debug/*
 SmokeSimulation/release/*
+rename.sh
