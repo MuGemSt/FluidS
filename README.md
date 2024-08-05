@@ -21,6 +21,6 @@ cd FluidS
 ```
 
 ## 环境安装配置及代码调试发布 Environment installation, configuration & code debugging, release
-此部分内容请统一参考此[博文](https://www.cnblogs.com/MuGeminorum/p/17017063.html)
+此部分内容请统一参考此[博文](https://www.cnblogs.com/MuGeminorum/p/17017055.html)
 
 Please refer to this [blog post](https://www.cnblogs.com/MuGeminorum/p/17017063.html) for this section.
