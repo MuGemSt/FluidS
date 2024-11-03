@@ -1,10 +1,10 @@
 ﻿# FluidS
-[![license](https://img.shields.io/github/license/MuGeminorum/FluidS.svg)](https://github.com/MuGeminorum/FluidS/blob/main/LICENSE)
-[![AppVeyor](https://img.shields.io/appveyor/ci/MuGeminorum/FluidS.svg?logo=appveyor)](https://ci.appveyor.com/project/MuGeminorum/FluidS)
-[![Github All Releases](https://img.shields.io/github/downloads/MuGeminorum/FluidS/total.svg)](https://github.com/MuGeminorum/FluidS/releases)
-[![GitHub release](https://img.shields.io/github/release/MuGeminorum/FluidS.svg)](https://github.com/MuGeminorum/FluidS/releases/latest)
+[![license](https://img.shields.io/github/license/MuGemSt/FluidS.svg)](https://github.com/MuGemSt/FluidS/blob/main/LICENSE)
+[![Build status](https://ci.appveyor.com/api/projects/status/y5q3wsmkp48a4yy0/branch/qt?svg=true)](https://ci.appveyor.com/project/MuGemSt/snake-ai/branch/qt)
+[![Github All Releases](https://img.shields.io/github/downloads/MuGemSt/FluidS/total.svg)](https://github.com/MuGemSt/FluidS/releases)
+[![GitHub release](https://img.shields.io/github/release/MuGemSt/FluidS.svg)](https://github.com/MuGemSt/FluidS/releases/latest)
 [![](https://img.shields.io/badge/bilibili-BV1LM4y1Q7K1-fc8bab.svg)](https://www.bilibili.com/video/BV1LM4y1Q7K1)
-[![](https://img.shields.io/badge/cnblog-17181715-075db3.svg)](https://www.cnblogs.com/MuGeminorum/p/17181715.html)
+[![](https://img.shields.io/badge/cnblog-17181715-075db3.svg)](https://www.cnblogs.com/MuGem/p/17181715.html)
 
 其仿真过程的核心算法参考了 Robert Bridson 的 _Fluid Simulation for Computer Graphics_。它使用 Navier-Stokes 方程的数值解来预测 Qt 的 OpenGL 小部件中显示的每一帧中粒子的密度和速度分布。有两种分辨率可供用户选择：64 × 64 和 128 × 128。用户还可以在 7 种颜色的密度和速度之间切换显示模式。
 
@@ -16,11 +16,11 @@ Its core algorithm of the simulation process refers to Robert Bridson's _Fluid S
 
 ## 代码下载 Code download
 ```bash
-git clone https://github.com/MuGeminorum/FluidS.git
+git clone https://github.com/MuGemSt/FluidS.git
 cd FluidS
 ```
 
 ## 环境安装配置及代码调试发布 Environment installation, configuration & code debugging, release
-此部分内容请统一参考此[博文](https://www.cnblogs.com/MuGeminorum/p/17017055.html)
+此部分内容请统一参考此[博文](https://www.cnblogs.com/MuGem/p/17017055.html)
 
-Please refer to this [blog post](https://www.cnblogs.com/MuGeminorum/p/17017063.html) for this section.
+Please refer to this [blog post](https://www.cnblogs.com/MuGem/p/17017063.html) for this section.
