@@ -1,6 +1,6 @@
 ﻿# FluidS
 [![license](https://img.shields.io/github/license/MuGemSt/FluidS.svg)](https://github.com/MuGemSt/FluidS/blob/main/LICENSE)
-[![Build status](https://ci.appveyor.com/api/projects/status/y5q3wsmkp48a4yy0/branch/qt?svg=true)](https://ci.appveyor.com/project/MuGemSt/snake-ai/branch/qt)
+[![Build status](https://ci.appveyor.com/api/projects/status/b531gepjilv9m6ko?svg=true)](https://ci.appveyor.com/project/MuGemSt/fluids)
 [![Github All Releases](https://img.shields.io/github/downloads/MuGemSt/FluidS/total.svg)](https://github.com/MuGemSt/FluidS/releases)
 [![GitHub release](https://img.shields.io/github/release/MuGemSt/FluidS.svg)](https://github.com/MuGemSt/FluidS/releases/latest)
 [![](https://img.shields.io/badge/bilibili-BV1LM4y1Q7K1-fc8bab.svg)](https://www.bilibili.com/video/BV1LM4y1Q7K1)
