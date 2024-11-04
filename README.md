@@ -2,8 +2,8 @@
 [![license](https://img.shields.io/github/license/MuGemSt/FluidS.svg)](https://github.com/MuGemSt/FluidS/blob/main/LICENSE)
 [![Build status](https://ci.appveyor.com/api/projects/status/b531gepjilv9m6ko?svg=true)](https://ci.appveyor.com/project/MuGemSt/fluids)
 [![GitHub release](https://img.shields.io/github/release/MuGemSt/FluidS.svg)](https://github.com/MuGemSt/FluidS/releases/latest)
-[![](https://img.shields.io/badge/bilibili-BV1LM4y1Q7K1-fc8bab.svg)](https://www.bilibili.com/video/BV1LM4y1Q7K1)
-[![](https://img.shields.io/badge/cnblog-17181715-075db3.svg)](https://www.cnblogs.com/MuGem/p/17181715.html)
+[![bilibili](https://img.shields.io/badge/bilibili-BV1LM4y1Q7K1-fc8bab.svg)](https://www.bilibili.com/video/BV1LM4y1Q7K1)
+[![cnblogs](https://img.shields.io/badge/cnblog-17181715-075db3.svg)](https://www.cnblogs.com/MuGem/p/17181715.html)
 
 其仿真过程的核心算法参考了 Robert Bridson 的 _Fluid Simulation for Computer Graphics_。它使用 Navier-Stokes 方程的数值解来预测 Qt 的 OpenGL 小部件中显示的每一帧中粒子的密度和速度分布。有两种分辨率可供用户选择：64 × 64 和 128 × 128。用户还可以在 7 种颜色的密度和速度之间切换显示模式。
 
